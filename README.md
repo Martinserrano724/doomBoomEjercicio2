@@ -3,10 +3,15 @@
 # Author: Martin Serrano
 
 Requisitos👀
+
 Tener una PC
+
 Tener internet
+
 Tener instalado git
+
 Comprender los comandos de git
+
 IMPORTANTE: Para que funcione el proyecto se deben cumplir todos los requisitos
 
 # Dettalle
@@ -19,6 +24,7 @@ esMayorDeEdad: indica si es mayor de edad, devuelve un mensaje indicando que la 
 mostrarDatos: devuelve toda la información del objeto.
 Luego crea la interfaz necesaria para que el usuario pueda crear un objeto persona, permitiendo ingresar las propiedades mediante un formulario, también agregar los botones “mostrar generación”, es “mayor de edad” e indicar en un alert el resultado de la función correspondiente.
 
-
+# link Netlify
+https://doom-ejercicio2.netlify.app/
 
 
